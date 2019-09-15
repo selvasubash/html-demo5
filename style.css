@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center! important;   
+}
+button {
+    background-color: blue;
+    color:white;
+    width:20%;
+    border-radius:3px;  
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+.s1 {
+    font-size:14px ;
+}
+.s2 {
+    font-size: 10px;
+    margin-bottom: -4px;
+}
+.s3 {
+    font-size:10px;
+}
+.s4 {
+    font-size: 12px;
+    margin-bottom: 1em! important;
+}
